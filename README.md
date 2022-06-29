@@ -1,0 +1,3 @@
+# SoneOthello
+
+MyGamePlayがmainとなっています。
